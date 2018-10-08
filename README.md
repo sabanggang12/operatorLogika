@@ -1,2 +1,2 @@
-"# tugasphp" 
-"# kalkulatorP" 
+TUGAS OPERATOR LOGIKA
+PEMROGRAMAN WEB
